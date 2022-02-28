@@ -1,0 +1,25 @@
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 1rem;
+ border-width: 1.8px;
+
+}
+
+.button {
+    margin-top: 1rem;
+    margin-left: 0rem;
+    background-color: blue;
+    color: aliceblue;
+    padding: .6rem;
+    font-size: 20px;
+}
